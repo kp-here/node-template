@@ -1,0 +1,10 @@
+{
+    "name": "template",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "TS_NODE_TRANSPILE_ONLY=true ts-node src/main.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
